@@ -6,7 +6,7 @@
    <UUID>1de4c6a8-ca6f-47e9-bdb6-83959ac316e3</UUID>
    <migratedVersion>5.9.0</migratedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
-   <projectFileLocation>/Users/kazuakiurayama/katalon-workspace/GitConflictExample/GitConflictExample.prj</projectFileLocation>
+   <projectFileLocation>/Users/kazuakiurayama/tmp/GitConflictExample/GitConflictExample.prj</projectFileLocation>
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>
